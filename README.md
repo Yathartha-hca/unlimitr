@@ -5,7 +5,7 @@ This is the landing page for Unlimitr's weight loss program.
 ## Live Site
 
 Once deployed to GitHub Pages, your site will be available at:
-`https://yourusername.github.io/repository-name`
+`https://yathartha-hca.github.io/repository-name`
 
 ## Local Development
 

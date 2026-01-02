@@ -14,7 +14,6 @@ Simply open `index.html` in your web browser to view the site locally.
 ## Files
 
 - `index.html` - Main landing page (rename from weightlossv1.html for deployment)
-- `weightlossv1.html` - Original file
 
 ## Deployment
 
